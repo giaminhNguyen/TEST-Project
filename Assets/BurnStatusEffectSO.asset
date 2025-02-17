@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bc12cc611174d3da637f98a996b8005, type: 3}
+  m_Name: BurnStatusEffectSO
+  m_EditorClassIdentifier: 
+  statusEffectType: 0
+  activationThreshold: 1
+  thresholdReductionMultiplier: 1
+  thresholdReductionEverySecond: 1
+  activeDuration: 4
+  visualEffectPrefab: {fileID: 2796301991515620554, guid: 4dc7d8d01ae3a6e4d92c55a495a93fbf, type: 3}
+  isBuildUpOnlyShow: 0
+  isEffectActive: 0
+  tickInterval: 0.5
+  tickDamage: 10

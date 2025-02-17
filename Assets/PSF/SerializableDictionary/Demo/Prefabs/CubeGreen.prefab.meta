@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f6c48fe643a92f440a8c74a61709ae15
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 247307
+  packageName: Serializable Dictionary
+  packageVersion: 1.0
+  assetPath: Assets/PSF/SerializableDictionary/Demo/Prefabs/CubeGreen.prefab
+  uploadId: 563921

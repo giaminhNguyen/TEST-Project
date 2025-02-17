@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b252a5fd7fc38f04daa9360f7c01a37e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 247307
+  packageName: Serializable Dictionary
+  packageVersion: 1.0
+  assetPath: Assets/PSF/SerializableDictionary/Demo/Prefabs/CubeBlue.prefab
+  uploadId: 563921

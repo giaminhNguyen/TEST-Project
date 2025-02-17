@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ce9fe966820040f45a49a64daa75265d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 247307
+  packageName: Serializable Dictionary
+  packageVersion: 1.0
+  assetPath: Assets/PSF/SerializableDictionary/Demo/Materials/Black.mat
+  uploadId: 563921

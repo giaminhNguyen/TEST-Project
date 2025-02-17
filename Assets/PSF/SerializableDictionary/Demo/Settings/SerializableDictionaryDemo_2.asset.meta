@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 43dd925e5114fab4ca4cf9b4738dbe62
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 247307
+  packageName: Serializable Dictionary
+  packageVersion: 1.0
+  assetPath: Assets/PSF/SerializableDictionary/Demo/Settings/SerializableDictionaryDemo_2.asset
+  uploadId: 563921

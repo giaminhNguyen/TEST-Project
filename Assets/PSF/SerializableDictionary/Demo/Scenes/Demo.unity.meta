@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a98dbf133acc1b64f83e538b1e84b2f3
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 247307
+  packageName: Serializable Dictionary
+  packageVersion: 1.0
+  assetPath: Assets/PSF/SerializableDictionary/Demo/Scenes/Demo.unity
+  uploadId: 563921
