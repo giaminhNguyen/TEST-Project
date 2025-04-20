@@ -1,11 +1,15 @@
 using System;
 using UnityEngine;
+using UnityEngine.Events;
 
-namespace _GameAssets._Scripts
+namespace UltimateHelper
 {
     [RequireComponent(typeof(ParticleSystem))]
-    public abstract class ParticleJob : MonoBehaviour
+    public abstract class ParticleJobMoveBase : MonoBehaviour
     {
+        public UnityEvent<int> onParticleCountFinish;
+        public Action<int>     onParticleCountFinishAction;
+        [Space(3)]
         [SerializeField]
         protected ParticleSystem _particleSystem;
 
